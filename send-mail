@@ -1,0 +1,4 @@
+#!/bin/bash
+#send mail
+
+echo "hi" |mail -s "internal mail" -r admin@mydomain test@anymail.com
