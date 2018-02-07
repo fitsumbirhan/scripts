@@ -1,0 +1,1 @@
+rsync -avzh scripts qauser@172.20.30.11:/home/qauser/
